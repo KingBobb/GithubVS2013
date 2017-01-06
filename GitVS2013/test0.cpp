@@ -6,7 +6,13 @@ int main()
 
 	int a = 5;
 	cout << setw(5) << a << setw(5) << endl;
+	  
 
+
+
+	cout << setw(5) << a << setw(5) << endl;
+
+	cout << setw(5) << a << setw(5) << endl;
 
 
 	
